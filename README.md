@@ -24,7 +24,11 @@ We analyzed how quality varies across different anime formats. **TV series** and
 Using a logarithmic scale for popularity (Member count), we can see a general trend: more popular anime tend to have higher scores. 
 ![Popularity vs Score](DataAnalysis/Anime_List/images/PopularityVsScore.png)
 
-### 3. Temporal Trends
+### 3. Hidden Gems Identification
+By isolating outliers, we identified "Hidden Gems"—anime with elite scores (**≥ 8.0**) that fall within the bottom **25th percentile** of popularity. These titles (highlighted in gold) represent high-quality masterpieces that haven't reached the mainstream audience yet.
+![Hidden Gems Verification](DataAnalysis/Anime_List/images/hidden_gems.png)
+
+### 4. Temporal Trends
 Tracking the average score of anime from early productions up to 2026. This chart reveals how the audience's perception of quality has evolved and identifies periods of significant industry growth.
 ![Temporal Trends](DataAnalysis/Anime_List/images/AvgScore.png)
 
