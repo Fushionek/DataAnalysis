@@ -1,7 +1,7 @@
-**Data Analysis Projects**
+#**Data Analysis Projects**
 This repository contains projects focused on data processing, statistical analysis, and visualization.
 
-**Tech Stack**
+#**Tech Stack**
 SQL: Data extraction and aggregation
 
 Python: Data analysis (Pandas, NumPy) and visualization (Matplotlib, Seaborn)
