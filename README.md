@@ -18,16 +18,16 @@ This project is an Exploratory Data Analysis (EDA) of a comprehensive MyAnimeLis
 
 ### 1. Score Distribution by Type
 We analyzed how quality varies across different anime formats. **TV series** and **Movies** tend to dominate the higher score brackets, while other formats like Special or ONA show more varied distributions.
-![Score Distribution](images/AnimeScoreDistribution.png)
+![Score Distribution](./images/AnimeScoreDistribution.png)
 
 ### 2. Popularity vs. Quality & Hidden Gems
 Using a logarithmic scale for popularity (Member count), we can see a general trend: more popular anime tend to have higher scores. However, our analysis successfully identified **Hidden Gems** (highlighted in gold) — masterpieces with elite scores but low mainstream recognition.
-![Popularity vs Score](images/PopularityVsScore.jpg)
+![Popularity vs Score](./images/PopularityVsScore.jpg)
 
 ### 3. Temporal Trends
 Tracking the average score of anime from early productions up to 2026. This chart reveals how the audience's perception of quality has evolved and identifies periods of significant industry growth.
-![Temporal Trends](images/AvgScore.png)
+![Temporal Trends](./images/AvgScore.png)
 
-## 💡 Conclusions
+## Conclusions
 - **Format Matters:** TV series and Movies tend to hold the highest average scores (~7.07), while specials and ONAs are rated slightly lower.
 - **The Hype Factor:** There is a general positive correlation between popularity and score, but many "Hidden Gems" exist in the lower popularity brackets, proving that popularity isn't the only indicator of quality.
