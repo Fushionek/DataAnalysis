@@ -17,7 +17,7 @@ This project is an Exploratory Data Analysis (EDA) of a comprehensive MyAnimeLis
 ## Visualizations & Insights
 
 ### 1. Score Distribution by Type
-We analyzed how quality varies across different anime formats. **TV series** and **Movies** tend to dominate the higher score brackets, while other formats like Special or ONA show more varied distributions.
+I analyzed how quality varies across different anime formats. **TV series** and **Movies** tend to dominate the higher score brackets, while other formats like Special or ONA show more varied distributions.
 ![Score Distribution](images/AnimeScoreDistribution.png)
 
 ### 2. Popularity vs. Quality & Hidden Gems
