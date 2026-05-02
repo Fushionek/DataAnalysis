@@ -4,7 +4,7 @@ This repository contains projects focused on data processing, statistical analys
 
 ## Tech Stack
 
-* **SQL:** 
-* **Python:** 
-* **Power BI:** 
-* **Excel:** 
+* **SQL** 
+* **Python** 
+* **Power BI** 
+* **Excel** 
