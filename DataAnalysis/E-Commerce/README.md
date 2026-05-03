@@ -33,6 +33,7 @@ Insight: Interestingly, in this dataset, the average rating stays very stable (a
 Goal: Identify popular products that are returned too often.
 
 Insight: The Ergonomic Chair , "Zero to One" book and Sticky Notes Bulk are high-revenue items but have return rates above 13-14%. This suggests a potential quality issue or poor product descriptions.
+For this, I Applied a HAVING clause to filter only for products with significant revenue (> $10k)
 
 ![Highest Returned](images/Highest_ReturnedRate.png)
 
