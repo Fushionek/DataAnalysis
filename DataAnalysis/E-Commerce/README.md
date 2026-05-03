@@ -32,7 +32,7 @@ Insight: Interestingly, in this dataset, the average rating stays very stable (a
 # High-Return Products
 Goal: Identify popular products that are returned too often.
 
-Insight: The Ergonomic Chair and Sticky Notes Bulk are high-revenue items but have return rates above 13-14%. This suggests a potential quality issue or poor product descriptions.
+Insight: The Ergonomic Chair , "Zero to One" book and Sticky Notes Bulk are high-revenue items but have return rates above 13-14%. This suggests a potential quality issue or poor product descriptions.
 
 ![Highest Returned](images/Highest_ReturnedRate.png)
 
