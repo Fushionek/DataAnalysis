@@ -35,3 +35,8 @@ Goal: Identify popular products that are returned too often.
 Insight: The Ergonomic Chair and Sticky Notes Bulk are high-revenue items but have return rates above 13-14%. This suggests a potential quality issue or poor product descriptions.
 
 ![Highest Returned](images/Highest_ReturnedRate.png)
+
+# **SQL QUERIES**
+
+[View SQL Queries](E-Commerce/sql_queries)
+
