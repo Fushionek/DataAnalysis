@@ -13,25 +13,25 @@ Goal: Find our most valuable customers and see if they buy premium or budget ite
 
 Insight: Our top customer (C04432) is a major "Whale," spending over $61,000. Most top spenders prefer premium items with an average price of $70+.
 
-![VIP Customer](DataAnalysis/E-Commerce/images/TOP5_Revenue.png)
+![VIP Customer](images/TOP5_Revenue.png)
 
 # Global Return Rate Check
 Goal: Understand the overall health of the business regarding returns.
 
 Insight: The business has an 8.08% return rate. Out of 25,000 orders, 2,020 were returned. This is a healthy baseline for e-commerce.
 
-![Return Rate](DataAnalysis/E-Commerce/images/Returned_Rate.png)
+![Return Rate](images/Returned_Rate.png)
 
 # Logistics: Does Speed Affect Ratings?
 Goal: See if slow delivery makes customers unhappy.
 
 Insight: Interestingly, in this dataset, the average rating stays very stable (around 4.0) regardless of delivery speed. Customers are just as happy with "Medium" delivery as with "Fast" delivery.
 
-![Delivery Speed](DataAnalysis/E-Commerce/images/Delivery_Speed.png)
+![Delivery Speed](images/Delivery_Speed.png)
 
 # High-Return Products
 Goal: Identify popular products that are returned too often.
 
 Insight: The Ergonomic Chair and Sticky Notes Bulk are high-revenue items but have return rates above 13-14%. This suggests a potential quality issue or poor product descriptions.
 
-![Highest Returned](DataAnalysis/E-Commerce/images/Highest_ReturnedRate.png)
+![Highest Returned](images/Highest_ReturnedRate.png)
