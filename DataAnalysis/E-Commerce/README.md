@@ -11,7 +11,7 @@ Interface: pgAdmin 4
 1. VIP Customer Identification
 Goal: Find our most valuable customers and see if they buy premium or budget items.
 
-Insight: Our top customer (C04432) is a major "Whale," spending over $61,000. Most top spenders prefer premium items with an average price of $70+.
+Insight: Our top customer (C04432) spent over $61,000. Some top spenders prefer premium items with an average price of $70+.
 
 ![VIP Customer](images/TOP5_Revenue.png)
 
