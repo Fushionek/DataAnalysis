@@ -38,5 +38,5 @@ Insight: The Ergonomic Chair and Sticky Notes Bulk are high-revenue items but ha
 
 # **SQL QUERIES**
 
-[View SQL Queries](E-Commerce/sql_queries)
+[View SQL Queries](sql_queries)
 
